@@ -29,11 +29,11 @@ The following steps were applied:
 - Pandas
 
 
-## 📄 Files
+##  Files
 
 - `Heart_Disease_Pandas_Colab.ipynb`: Main notebook with all analysis.
 
-## 📌 Notes
+##  Notes
 
 This analysis is purely exploratory and intended for educational and analytical purposes. No machine learning models were applied in this version.
 
